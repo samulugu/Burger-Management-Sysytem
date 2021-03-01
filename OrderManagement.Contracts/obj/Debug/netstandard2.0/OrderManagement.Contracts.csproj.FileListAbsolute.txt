@@ -1,0 +1,12 @@
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Contracts\bin\Debug\netstandard2.0\OrderManagement.Contracts.deps.json
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Contracts\bin\Debug\netstandard2.0\OrderManagement.Contracts.dll
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Contracts\bin\Debug\netstandard2.0\OrderManagement.Contracts.pdb
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Contracts\obj\Debug\netstandard2.0\OrderManagement.Contracts.csprojAssemblyReference.cache
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Contracts\obj\Debug\netstandard2.0\OrderManagement.Contracts.csproj.CoreCompileInputs.cache
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Contracts\obj\Debug\netstandard2.0\OrderManagement.Contracts.AssemblyInfoInputs.cache
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Contracts\obj\Debug\netstandard2.0\OrderManagement.Contracts.AssemblyInfo.cs
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Contracts\obj\Debug\netstandard2.0\OrderManagement.Contracts.dll
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Contracts\obj\Debug\netstandard2.0\OrderManagement.Contracts.pdb
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Contracts\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Contracts\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Contracts\obj\Debug\netstandard2.0\OrderManagement.Contracts.csproj.CopyComplete

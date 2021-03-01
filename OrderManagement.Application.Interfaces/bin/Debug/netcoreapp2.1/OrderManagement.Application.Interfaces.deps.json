@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "OrderManagement.Application.Interfaces/1.0.0": {
+        "dependencies": {
+          "OrderManagement.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "OrderManagement.Application.Interfaces.dll": {}
+        }
+      },
+      "OrderManagement.Contracts/1.0.0": {
+        "runtime": {
+          "OrderManagement.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderManagement.Application.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderManagement.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

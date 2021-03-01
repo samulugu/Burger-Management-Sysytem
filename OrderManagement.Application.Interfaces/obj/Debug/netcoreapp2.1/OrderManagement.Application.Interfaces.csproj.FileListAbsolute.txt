@@ -1,0 +1,14 @@
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Application.Interfaces\bin\Debug\netcoreapp2.1\OrderManagement.Application.Interfaces.deps.json
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Application.Interfaces\bin\Debug\netcoreapp2.1\OrderManagement.Application.Interfaces.dll
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Application.Interfaces\bin\Debug\netcoreapp2.1\OrderManagement.Application.Interfaces.pdb
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Application.Interfaces\bin\Debug\netcoreapp2.1\OrderManagement.Contracts.dll
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Application.Interfaces\bin\Debug\netcoreapp2.1\OrderManagement.Contracts.pdb
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Application.Interfaces\obj\Debug\netcoreapp2.1\OrderManagement.Application.Interfaces.csprojAssemblyReference.cache
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Application.Interfaces\obj\Debug\netcoreapp2.1\OrderManagement.Application.Interfaces.csproj.CoreCompileInputs.cache
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Application.Interfaces\obj\Debug\netcoreapp2.1\OrderManagement.Application.Interfaces.AssemblyInfoInputs.cache
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Application.Interfaces\obj\Debug\netcoreapp2.1\OrderManagement.Application.Interfaces.AssemblyInfo.cs
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Application.Interfaces\obj\Debug\netcoreapp2.1\OrderManagement.Application.Interfaces.csproj.CopyComplete
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Application.Interfaces\obj\Debug\netcoreapp2.1\OrderManagement.Application.Interfaces.dll
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Application.Interfaces\obj\Debug\netcoreapp2.1\OrderManagement.Application.Interfaces.pdb
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Application.Interfaces\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Application.Interfaces\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml

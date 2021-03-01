@@ -1,0 +1,235 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Application.Interfaces\\OrderManagement.Application.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Application.Interfaces\\OrderManagement.Application.Interfaces.csproj",
+        "projectName": "OrderManagement.Application.Interfaces",
+        "projectPath": "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Application.Interfaces\\OrderManagement.Application.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\saids\\.nuget\\packages\\",
+        "outputPath": "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Application.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\saids\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Contracts\\OrderManagement.Contracts.csproj": {
+                "projectPath": "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Contracts\\OrderManagement.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Contracts\\OrderManagement.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Contracts\\OrderManagement.Contracts.csproj",
+        "projectName": "OrderManagement.Contracts",
+        "projectPath": "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Contracts\\OrderManagement.Contracts.csproj",
+        "packagesPath": "C:\\Users\\saids\\.nuget\\packages\\",
+        "outputPath": "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\saids\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Domain\\OrderManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Domain\\OrderManagement.Domain.csproj",
+        "projectName": "OrderManagement.Domain",
+        "projectPath": "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Domain\\OrderManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\saids\\.nuget\\packages\\",
+        "outputPath": "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\saids\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj",
+        "projectName": "OrderManagement.Infrastructure",
+        "projectPath": "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\saids\\.nuget\\packages\\",
+        "outputPath": "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\saids\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Application.Interfaces\\OrderManagement.Application.Interfaces.csproj": {
+                "projectPath": "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Application.Interfaces\\OrderManagement.Application.Interfaces.csproj"
+              },
+              "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Domain\\OrderManagement.Domain.csproj": {
+                "projectPath": "D:\\Udemy\\DDD\\10-coding\\EcommerceSystem\\OrderManagement.Domain\\OrderManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

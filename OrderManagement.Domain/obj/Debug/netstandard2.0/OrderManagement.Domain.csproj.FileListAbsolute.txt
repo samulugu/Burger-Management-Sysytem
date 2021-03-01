@@ -1,0 +1,9 @@
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Domain\bin\Debug\netstandard2.0\OrderManagement.Domain.deps.json
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Domain\bin\Debug\netstandard2.0\OrderManagement.Domain.dll
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Domain\bin\Debug\netstandard2.0\OrderManagement.Domain.pdb
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Domain\obj\Debug\netstandard2.0\OrderManagement.Domain.csprojAssemblyReference.cache
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Domain\obj\Debug\netstandard2.0\OrderManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Domain\obj\Debug\netstandard2.0\OrderManagement.Domain.AssemblyInfoInputs.cache
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Domain\obj\Debug\netstandard2.0\OrderManagement.Domain.AssemblyInfo.cs
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Domain\obj\Debug\netstandard2.0\OrderManagement.Domain.dll
+D:\Udemy\DDD\10-coding\EcommerceSystem\OrderManagement.Domain\obj\Debug\netstandard2.0\OrderManagement.Domain.pdb
